@@ -1,4 +1,4 @@
-## BATA: A Quantum-Enhanced, Secure, and Adaptive AI Assistant
+## GRP-Team 12
 
 ### Introduction
 
