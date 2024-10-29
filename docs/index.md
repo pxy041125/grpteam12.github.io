@@ -28,7 +28,7 @@
 - Role: Member
 - Email: scycw7@nottingham.edu.cn
 
-### YangWu
+### Yang Wu
 - Role: Member
 - Email: scyyw19@nottingham.edu.cn
 
