@@ -1,12 +1,12 @@
-## GRP-Team 12
+# GRP-Team 12
 
-### Introduction
+<-- ### Introduction -->
 
-#### Dave Towey
+### Dave Towey
 - Role: Module Convenor
 - Email: dave.towey@nottingham.edu.cn
 
-#### Anthony Graham Bellotti
+### Anthony Graham Bellotti
 - Role: Supervisor
 - Email: anthony-graham.bellotti@nottingham.edu.cn
 
@@ -14,23 +14,23 @@
 - Role: Team Leader
 - Email: scydl3@nottingham.edu.cn
 
-#### Jiacheng Xu
+### Jiacheng Xu
 - Role: Member
 - Email: scyjx7@nottingham.edu.cn
 
-#### Yingcong Wei
+### Yingcong Wei
 - Role: Member
 - Email: scyyw18@nottingham.edu.cn
 
-#### Xingyu Pan
+### Xingyu Pan
 - Role: Member
 - Email: scyxp2@nottingham.edu.cn
 
-#### Chenhui Wang
+### Chenhui Wang
 - Role: Member
 - Email: scycw7@nottingham.edu.cn
 
-#### YangWu
+### YangWu
 - Role: Member
 - Email: scyyw19@nottingham.edu.cn
 
