@@ -1,6 +1,7 @@
-# GRP-Team 12
+# Home
 
-## Project Name: Rank-ordering System Project
+## Project Name
+## **Rank-ordering System Project**
 
 ### Dave Towey
 - Role: Module Convenor
