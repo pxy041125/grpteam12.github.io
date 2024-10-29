@@ -1,7 +1,5 @@
 # GRP-Team 12
 
-<-- ### Introduction -->
-
 ### Dave Towey
 - Role: Module Convenor
 - Email: dave.towey@nottingham.edu.cn
